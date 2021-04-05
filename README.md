@@ -6,5 +6,9 @@ https://www.youtube.com/watch?v=9Pk7xAT_aCU
 
 Лекция читается в рамках образовательного проекта "Техносфера Mail.ru Group" при МГУ им.Ломоносова. 
 
+## Repo
+[Initial Repo](https://gitlab.com/rvasily/msu-go-11)
+
 ## Ideas 
 [Source](https://golangs.org/go-for-if-else-switch)
+
